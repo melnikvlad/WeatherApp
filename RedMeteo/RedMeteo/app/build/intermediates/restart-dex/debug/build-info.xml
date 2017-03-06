@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="914004612959068"
+    token="6260543284638792551"
+    verifier="FIELD_TYPE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="554" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="63" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="912970544870846"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="913837797525036"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="914004612959068"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_868be10915118b6440900141f7667d751d5c1935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d22b1e29ba24d594102e83925be0f47d1914c7aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_4cd11e2e3b61ae9db41acc49663476472af0139a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9c79de0ce3622f27fde9186c8c1a4d1ae8829fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_7b9d43bbb32376ff72b1050328422a9ede7bb017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_a5485f830a54c616c8eed3ed5bb23fe22fa7add5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_22f11493a77d53f3c270c249f538f061900d5efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c13f6f2e9be11a67179cbf61f1ab6facb7f0939c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\activeandroid-3.1.0-SNAPSHOT_dd01b8f872ef262ee5013e8af6342985c5571d8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_f652a5644d7b6721a26d794838ce102867bcf2ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="252ed40757a62f38ebec82ab0898bf7c154e075f">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_216e3880722e1f49318b2e70c0371527b2b3375d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_650c030e4fa7d5b762c3605b92b89f3986fa160c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_893e9ee07e66d401ff5032139bf3a20d60fca00a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f46e41b1465f08c5350764a26f6ed4d7219b45cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_3e748836013ceba4e841d61be2d3c627b6aca2f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a316cb2102f085305585c7a4c024547894077661">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b0a266ea471dd5b65452ef7192540154828c5f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_4022645c7bd49fe6e0e66da190a8db72e9d1038f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8599f23be7d427bf99c168a1856b927c017bbdc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_8982490ebdd123d35ac9b0206863f1d342ef0455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_922716fe5e79130b88afe7f0f39dfa0dae8d7eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_0ff3d60634773b2cc815c2f03b78917e6a8d11bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Vlad\Desktop\RedMeteo-20161219T084108Z\RedMeteo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_2af810917471d7ec171c751643a52a7cf33aedb0\classes.dex" />
+    </item>
+
+</items>
